@@ -4,7 +4,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
-public class Driver4 {
+public class findDifference {
     public static void main(String[] args) {
         //Starts timer
         long start = System.currentTimeMillis();
